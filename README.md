@@ -4,7 +4,7 @@ I'm a Data / Machine Learning / Software Engineer based in Poland.
 
 Mostly using Python & stuff to build machine learning solutions or data pipelines. The later is also done in Ruby
 
-I'm very intrested in bring #machinelearning to production in a nice manner (aka MLOps)
+I'm very intrested in bring #machinelearning to production in a nice manner (aka MLOps) and making sure that good quality data are in proper palces (aka Data Engineering).
 
 ### 🌱 I’m currently learning ...
 - Ruby (in Data Engineering world)
