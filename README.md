@@ -1,8 +1,13 @@
 ### Hi there 👋
 
-I'm a AI / Machine Learning based in Poland.
+I'm an AI / Machine Learning based in Poland.
 
-Mostly using **🐍 Python & stuff** to build 🤖 machine learning solutions and bring them to production in a nice manner (aka #MLOps)
+Mostly using **🐍 Python & stuff** to build 🤖 machine learning solutions and bring them to production in a nice manner (aka #MLOps).
+
+Trying to help Data Scientist to focus on science by proper tooling preparation and knowledge sharing about code development in data science area.
+
+Huge fan of smart automation. From small ones (like on my computer) till the big ones, like end-to-end Machine Learning pipelines.
+
 
 ### Certifications
 - [AWS Certified Machine Learning – Specialty](https://www.credly.com/badges/f3cf079e-0073-45c0-b24e-07c7c34a41bc/public_url)
@@ -17,3 +22,4 @@ Mostly using **🐍 Python & stuff** to build 🤖 machine learning solutions an
 [![Linkedin Badge](https://img.shields.io/badge/-klyda-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/klyda/) 
 [![Twitter Badge](https://img.shields.io/badge/-k____lyda-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/k__lyda/) 
 [![Instagram Badge](https://img.shields.io/badge/-konrad__uczy__maszyny-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/konrad_uczy_maszyny/)
+[![Website Badge](https://img.shields.io/badge/uczymymaszyny.pl-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://tailored.ml) 
