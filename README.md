@@ -21,5 +21,4 @@ Huge fan of smart automation. From small ones (like on my computer) till the big
 [![Website Badge](https://img.shields.io/badge/uczymymaszyny.pl-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://uczymymaszyny.pl) 
 [![Linkedin Badge](https://img.shields.io/badge/-klyda-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/klyda/) 
 [![Twitter Badge](https://img.shields.io/badge/-k____lyda-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/k__lyda/) 
-[![Instagram Badge](https://img.shields.io/badge/-konrad__uczy__maszyny-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/konrad_uczy_maszyny/)
 [![Website Badge](https://img.shields.io/badge/tailored.ml-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://tailored.ml) 
